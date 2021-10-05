@@ -1,4 +1,13 @@
-### Hi there 👋  Hi, my name is Andrey Gripich
+### Hi there 👋  Hi, my name is Andrey Gripich.
+I'm a Front-end developer from Minsk, Belarus.
+
+Languages and Technologies
+
+Follow me in Telegram👉 [https://t.me/Dittmerok](https://t.me/Dittmerok)
+
+Contact me via Linkedin, email or Telegram:
++375295728693,
+gripicha@yandex.by
 
 <!--
 **DittmerOk/DittmerOk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
