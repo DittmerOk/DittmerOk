@@ -9,7 +9,7 @@ Contact me via [Linkedin](https://www.linkedin.com/in/andrey-hrypich-571b4b193/)
 email or phone: 
 +375295728693, gripicha@yandex.by
 
-![реакт](1.png)
+![реакт](1.svg)
 
 <!--
 **DittmerOk/DittmerOk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
