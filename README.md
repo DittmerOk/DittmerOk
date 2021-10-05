@@ -2,7 +2,9 @@
 I'm a Front-end developer from Minsk, Belarus.
 
 Languages and Technologies:
-![реакт](1.svg)![редакс](2.svg)![typescript](3.svg)![html](4.svg)![css](5.svg)![реакт](6.svg)![реакт](7.svg)
+
+![реакт](1.svg)![редакс](2.svg)![typescript](3.svg)![html](4.svg)
+![css](5.svg)![реакт](6.svg)![реакт](7.svg)
 
 Follow me in Telegram👉 [https://t.me/Dittmerok](https://t.me/Dittmerok)
 
