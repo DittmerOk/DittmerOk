@@ -2,6 +2,7 @@
 I'm a Front-end developer from Minsk, Belarus.
 
 Languages and Technologies:
+![реакт](1.svg)![редакс](2.svg)![typescript](3.svg)![html](4.svg)![css](5.svg)![реакт](6.svg)![реакт](7.svg)
 
 Follow me in Telegram👉 [https://t.me/Dittmerok](https://t.me/Dittmerok)
 
@@ -9,7 +10,7 @@ Contact me via [Linkedin](https://www.linkedin.com/in/andrey-hrypich-571b4b193/)
 email or phone: 
 +375295728693, gripicha@yandex.by
 
-![реакт](1.svg)
+
 
 <!--
 **DittmerOk/DittmerOk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
