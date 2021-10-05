@@ -1,11 +1,11 @@
-### Hi there 👋  Hi, my name is Andrey Gripich.
+### Hi there 👋 my name is Andrey Gripich.
 I'm a Front-end developer from Minsk, Belarus.
 
 Languages and Technologies
 
 Follow me in Telegram👉 [https://t.me/Dittmerok](https://t.me/Dittmerok)
 
-Contact me via Linkedin, email or Telegram:
+Contact me via [Linkedin](https://www.linkedin.com/in/andrey-hrypich-571b4b193/), email or phone:
 +375295728693,
 gripicha@yandex.by
 
