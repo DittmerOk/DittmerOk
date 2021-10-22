@@ -9,7 +9,7 @@ Languages and Technologies:
 Follow me in Telegram👉 [https://t.me/Dittmerok](https://t.me/Dittmerok)
 
 Contact me via [Linkedin](https://www.linkedin.com/in/andrey-hrypich-571b4b193/), 
-email gripicha@yandex.by
+email: gripicha@yandex.by
 or by phone: +375295728693.
 
 
